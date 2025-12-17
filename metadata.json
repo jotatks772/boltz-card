@@ -1,0 +1,5 @@
+{
+  "name": "Obsidian Wallet",
+  "description": "Uma carteira Multi-Chain (BTC, ETH, XMR, Stablecoins) minimalista de alto contraste com assistente IA integrado.",
+  "requestFramePermissions": []
+}
